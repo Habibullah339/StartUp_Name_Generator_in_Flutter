@@ -1,6 +1,7 @@
 # StartUp Name Generator in Flutter
 
 StartUp Name Generator in Flutter.
+<img src="https://user-images.githubusercontent.com/73570477/130997940-c637cd72-8ef2-4b50-8647-926c3694616c.gif">
 
 ## Getting Started
 
