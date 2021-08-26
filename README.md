@@ -1,4 +1,4 @@
-# code_lab_1
+# StartUp Name Generator
 
 A new Flutter project.
 
