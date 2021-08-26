@@ -1,6 +1,6 @@
-# StartUp Name Generator
+# StartUp Name Generator in Flutter
 
-A new Flutter project.
+StartUp Name Generator in Flutter.
 
 ## Getting Started
 
